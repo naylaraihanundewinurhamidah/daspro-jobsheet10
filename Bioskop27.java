@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Bioskop27 {
     public static void main(String[] args) {
         String[][] penonton =  new String[4][2];
